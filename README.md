@@ -1,1 +1,0 @@
-# kkimpact_web
