@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+test.py
+
+# Logs
+*.log
+*.zip
+
+# Audio files
+audio/
+
+# Env file
+.env
+
+# Playwright files
+.playwright/
